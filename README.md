@@ -13,5 +13,11 @@
 
 1. Open the following link in a new tab: [Data Science End-to-End](https://colab.research.google.com/github/maxbrent/ExploreAIChallenge/blob/master/Explore_AI_Challenge.ipynb)
 
-2.
+2. Next click on "Sign IN" on the top right corner and sign in with your standard google user credentials
+
+3. Once signed in click on the "Connect" button on the top right corner and wait for the environment to initialize, once the runtime environment is initialized, you will see a "Connected" with a tick in the top right corner.
+
+4. You are now able to run the each of the code cells. To run the code cells use **"Shift + Enter"**
+
+
 
