@@ -19,5 +19,9 @@
 
 4. You are now able to run each of the code cells. To run the code cells use **"Shift + Enter"**
 
+5. Additional code that is used in the notebook is provided in this github repository **utils.py** and **util.py**
+
+6. All of the data used in the notebook is provided in this github repository in the **data** folder.
+
 
 
