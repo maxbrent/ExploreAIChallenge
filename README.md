@@ -19,9 +19,11 @@
 
 4. You are now able to run each of the code cells. To run the code cells use **"Shift + Enter"**
 
-5. Additional code that is used in the notebook is provided in this github repository **utils.py** and **util.py**
+5. All of the dependencies that need to be installed will be installed by running the code cells in the notebook.
 
-6. All of the data used in the notebook is provided in this github repository in the **data** folder.
+6. Additional code that is used in the notebook is provided in this github repository **utils.py** and **util.py**
+
+7. All of the data used in the notebook is provided in this github repository in the **data** folder.
 
 
 
