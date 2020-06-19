@@ -11,7 +11,7 @@
 
 ## Instructions to Run Notebook
 
-1. Open the following link in a new tab: https://colab.research.google.com/github/maxbrent/ExploreAIChallenge/blob/master/Explore_AI_Challenge.ipynb
+1. Open the following link in a new tab: [Data Science End-to-End](https://colab.research.google.com/github/maxbrent/ExploreAIChallenge/blob/master/Explore_AI_Challenge.ipynb)
 
 2.
 
