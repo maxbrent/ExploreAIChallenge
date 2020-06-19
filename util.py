@@ -53,7 +53,6 @@ def prob_drop(age):
 
 
 def nhanesi(display=False):
-    """Same as shap, but we use local data."""
     X = pd.read_csv(os.path.join(__location__, '/content/ExploreAIChallenge/data/NHANESI_subset_X.csv'))
     y = pd.read_csv(os.path.join(__location__, '/content/ExploreAIChallenge/data/NHANESI_subset_y.csv'))["y"]
     if display:
