@@ -29,4 +29,8 @@
 
 8. All of the data used in the notebook is provided in this github repository in the **data** folder.
 
-9. Thanks
+9. Due to time constraints, all of the material that I wanted to add into the notebook is in the **Raw** folder.
+  - This includes all of my notes gathered throughout my years of experience
+  - It just has not been added to my notebook since I didn't get the time to formally structure these notes.
+  
+10. Thanks
