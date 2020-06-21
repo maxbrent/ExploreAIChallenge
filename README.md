@@ -15,7 +15,7 @@
 
 2. Next click on **"Sign IN"** on the top right corner and sign in with your standard google user credentials, or you can use the credentials that I have provided: 
   - Email: terminatorxxxcool@gmail.com
-  - Password: 514230Sp@ce
+  - Password: 147369852
 
 3. Once signed in click on the **"Connect"** button on the top right corner and wait for the environment to initialize, once the runtime environment is initialized, you will see a **"Connected"** with a tick in the top right corner.
 
