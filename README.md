@@ -14,6 +14,8 @@
 1. Open the following link in a new tab: [Data Science End-to-End](https://colab.research.google.com/github/maxbrent/ExploreAIChallenge/blob/master/Explore_AI_Challenge.ipynb)
 
 2. Next click on **"Sign IN"** on the top right corner and sign in with your standard google user credentials, or you can use the credentials that I have provided: 
+  - Email: terminatorxxxcool@gmail.com
+  - Password: 514230Sp@ce
 
 3. Once signed in click on the **"Connect"** button on the top right corner and wait for the environment to initialize, once the runtime environment is initialized, you will see a **"Connected"** with a tick in the top right corner.
 
