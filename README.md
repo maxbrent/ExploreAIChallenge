@@ -13,17 +13,19 @@
 
 1. Open the following link in a new tab: [Data Science End-to-End](https://colab.research.google.com/github/maxbrent/ExploreAIChallenge/blob/master/Explore_AI_Challenge.ipynb)
 
-2. Next click on **"Sign IN"** on the top right corner and sign in with your standard google user credentials
+2. Next click on **"Sign IN"** on the top right corner and sign in with your standard google user credentials, or you can use the credentials that I have provided: 
 
 3. Once signed in click on the **"Connect"** button on the top right corner and wait for the environment to initialize, once the runtime environment is initialized, you will see a **"Connected"** with a tick in the top right corner.
 
 4. You are now able to run each of the code cells. To run the code cells use **"Shift + Enter"**
 
-5. All of the dependencies that need to be installed will be installed by running the code cells in the notebook.
+5. Some cells will display **cells hidden**. You will need to click on this in the notebook to exapand the cells.
 
-6. Additional code that is used in the notebook is provided in this github repository **utils.py** and **util.py**
+6. All of the dependencies that need to be installed will be installed by running the code cells in the notebook.
 
-7. All of the data used in the notebook is provided in this github repository in the **data** folder.
+7. Additional code that is used in the notebook is provided in this github repository **utils.py** and **util.py**
+
+8. All of the data used in the notebook is provided in this github repository in the **data** folder.
 
 
 
